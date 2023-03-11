@@ -25,3 +25,20 @@ It's pretty simple to use any of these components or templates in your project. 
 <a href="https://devdojo.com/episode/hacktoberfest-2020" target="_blank"><img src="https://cdn.devdojo.com/tails/images/hacktoberfest-png.png" width="640"></a>
 
 If you are contributing, please read the [contributing file](CONTRIBUTING.md) before submitting your pull requests.
+
+# Sitemap
+
+- Home
+- About Us
+- Services
+  - Device Installation for Service Providers
+  - Card Payment Processing for Service Providers
+  - Customer Support
+- Service Providers
+  - List of Service Providers
+  - How to Become a Service Provider
+- Clients
+  - How to Use Our Payment System
+  - Frequently Asked Questions
+- Blog
+- Contact Us
